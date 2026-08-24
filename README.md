@@ -9,7 +9,23 @@
 
 ## 📖 Executive Project Overview
 This repository contains the complete academic and industry-standard **Week 1 Data Science Portfolio Project** focusing on the foundational stages of the Data Science Lifecycle:
-$$\text{Data Acquisition} \longrightarrow \text{Data Quality Audit} \longrightarrow \text{Data Cleaning \& Validation} \longrightarrow \text{Feature Engineering} \longrightarrow \text{Exploratory Data Analysis} \longrightarrow \text{Statistical Synthesis} \longrightarrow \text{Publication Reporting}$$
+### Data Science Workflow
+
+**Data Acquisition**  
+↓  
+**Data Quality Audit**  
+↓  
+**Data Cleaning & Validation**  
+↓  
+**Feature Engineering**  
+↓  
+**Exploratory Data Analysis**  
+↓  
+**Statistical Analysis**  
+↓  
+**Visualization & Insights**  
+↓  
+**Final Report**
 
 The study investigates urban micromobility patterns and environmental responsiveness using the **UCI Machine Learning Repository Bike Sharing Dataset** (`hour.csv`), capturing **17,379 hourly observation records** from the Capital Bikeshare system in Washington, D.C., across 2011–2012.
 
