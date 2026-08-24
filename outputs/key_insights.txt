@@ -1,0 +1,19 @@
+WEEK 1 BIKE SHARING DEMAND EDA: KEY QUANTIFIED INSIGHTS
+======================================================================
+
+1. TOTAL SYSTEM DEMAND & COMPOSITION: The system logged a cumulative 3,292,679 bike rentals across 2011-2012. Registered commuters represent 81.17% (2,672,662 rentals) of total volume, while casual recreational riders account for 18.83% (620,017 rentals). Registered users form the stable backbone of the bikeshare system.
+
+2. YEAR-OVER-YEAR RIDERSHIP SURGE: Total demand increased by 64.88% from 1,243,103 rentals in 2011 (mean hourly: 143.79) to 2,049,576 rentals in 2012 (mean hourly: 234.67), reflecting rapid system adoption and network maturity.
+
+3. DIURNAL COMMUTE DUAL-PEAK PATTERN: Hourly demand exhibits a pronounced bimodal distribution on working days, peaking at 17:00 (5:00 PM, mean 461.5 rentals/hr) and 08:00 (8:00 AM, mean 359.0 rentals/hr), driven by office commuter traffic. The lowest average demand occurs at 04:00 (4:00 AM, mean 6.4 rentals/hr).
+
+4. DISTINCT WEEKEND VS. WEEKDAY USER BEHAVIORS: On working days, registered riders average 167.6 rentals/hr vs casual riders at 25.6 rentals/hr. Conversely, on non-working days/weekends, casual rental demand doubles to 57.4 rentals/hr with a unimodal afternoon peak (12:00-16:00).
+
+5. SEASONAL CLIMATIC INFLUENCE: Ridership peaks in Fall (mean 236.0 rentals/hr, total 1,061,129 rides) followed closely by Summer (mean 208.3 rentals/hr), while Spring records the lowest demand (mean 111.1 rentals/hr), primarily due to cold early-year temperatures in Q1.
+
+6. MONTHLY SEASONALITY TRAJECTORY: Demand peaks in June (240.5 rentals/hr) and September (240.8 rentals/hr), while January records the annual nadir (94.4 rentals/hr), showing a strong 4.4x seasonal expansion between winter lows and summer highs.
+
+7. TEMPERATURE POSITIVE CORRELATION: Temperature is the strongest environmental driver of ridership with a Pearson correlation of r = +0.405 (feeling temperature atemp r = +0.401). Warmer ambient conditions consistently promote higher ridership across both user tiers.
+
+8. ADVERSE WEATHER & HUMIDITY DETERRENCE: High humidity shows a negative correlation with total rentals (r = -0.323). Demand is highest under Clear/Few Clouds weather (mean 204.9 rentals/hr) and drops by 62.4% under Light Snow/Rain (mean 111.6 rentals/hr), with Heavy Rain/Ice Pellets seeing minimal activity (74.3 rentals/hr across only 3 recorded hours).
+
